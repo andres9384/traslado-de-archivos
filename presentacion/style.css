@@ -1,0 +1,15 @@
+a{
+    color: white;
+}
+.banner{
+    text-align: center;
+    color:white;
+    font-weight: bold;
+    background-color: blue;
+}
+.footer{
+    text-align: center;
+    color:white;
+    font-weight: bold;
+    background-color: red;
+}
